@@ -1,0 +1,1 @@
+This example showcases a common issue in Ruby where instance variables can be modified externally, violating encapsulation principles. The solution demonstrates how to use accessor methods to control data modification and protect the class's internal state.
